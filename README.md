@@ -18,7 +18,7 @@ My cat weighs 13 pounds
 
 ## 💭 Favorite Quote
 
-> _[Your quote goes here!]_
+> 
 
 ---
 
