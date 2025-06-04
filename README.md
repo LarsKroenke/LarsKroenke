@@ -1,4 +1,4 @@
-# Hey there, I'm Lars! 🧪🐾
+# Hey there, I'm Lars! 🧪
 
 Welcome to my corner of GitHub!
 
